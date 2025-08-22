@@ -1,5 +1,5 @@
 # Playwright_With_JavaScript_Framework - UI 
-Built a robust UI automation framework using Playwright with JavaScript implementing 
+Built a UI automation framework using Playwright with JavaScript implementing 
 - Fixtures , Hooks , Tags
 - Managing test data from JSON
 - Supporting multiple environments (Demo, Dev, QA) and browsers
